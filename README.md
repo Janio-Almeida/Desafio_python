@@ -41,9 +41,9 @@ Requisitos Não Funcionais
 
 . Segurança 
 
-· O endpoint de login deve gerar um JWT. 
+· O endpoint de login geram um JWT. 
 
-· As rotas para visualizar, criar, atualizar e deletar perfis devem exigir autorização para serem acessadas. 
+· As rotas para visualizar, criar, atualizar e deletar perfis exigem autorização para serem acessadas. 
 
 Tecnologias Usadas
 
